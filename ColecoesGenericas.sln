@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3HashCode_Equals", "3HashCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Dictionary", "4Dictionary\4Dictionary.csproj", "{30896FC0-3E0F-46B9-B0D7-1A4AEF1F564B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Exercicio", "5Exercicio\5Exercicio.csproj", "{1A1D7C7C-A11F-4D58-81AB-5BB48DD17E24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{30896FC0-3E0F-46B9-B0D7-1A4AEF1F564B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30896FC0-3E0F-46B9-B0D7-1A4AEF1F564B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30896FC0-3E0F-46B9-B0D7-1A4AEF1F564B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1D7C7C-A11F-4D58-81AB-5BB48DD17E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1D7C7C-A11F-4D58-81AB-5BB48DD17E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1D7C7C-A11F-4D58-81AB-5BB48DD17E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1D7C7C-A11F-4D58-81AB-5BB48DD17E24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
